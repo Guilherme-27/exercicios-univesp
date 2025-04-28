@@ -28,3 +28,6 @@ class Baralho:
         
     def distribuir(self):
         return self.baralho.pop()
+    
+b1 = Baralho()
+print(b1)
