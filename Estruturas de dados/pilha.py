@@ -1,3 +1,4 @@
+#LIFO (Last In, First Out)
 class Pilha:
     def __init__(self):
         self.data = []
