@@ -7,6 +7,7 @@
 # A saída de pessoas da fila deve ocorrer da seguinte forma:
 # a cada duas pessoas que saem da fila prioritária, uma sai da fila normal.
 
+#First In First Out - FIFO
 class Fila:
     def __init__(self):
         self.data = []
