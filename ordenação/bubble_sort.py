@@ -1,5 +1,6 @@
 #Bubble Sort
 # O Bubble Sort percorre a lista e troca os elementos adjacentes sempre que o atual for maior que o próximo.
+
 lista = [29, 10, 14, 37, 13, 5, 78, 3, 18, 25]
 
 def bubble_sort(v):

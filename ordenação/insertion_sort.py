@@ -1,5 +1,6 @@
 # Insertion Sort
 # O Insertion Sort percorre a lista, inserindo cada valor na posição correta entre os elementos à esquerda.
+
 def insertion_sortio(v):
     for i in range(1, len(v)):
         x= v[i] # Armazena o valor atual que será inserido na posição correta
